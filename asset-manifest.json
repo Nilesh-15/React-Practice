@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/React-Practice/static/css/main.bed83895.chunk.css",
+    "main.js": "/React-Practice/static/js/main.98af6be7.chunk.js",
+    "main.js.map": "/React-Practice/static/js/main.98af6be7.chunk.js.map",
+    "runtime-main.js": "/React-Practice/static/js/runtime-main.6f558f1b.js",
+    "runtime-main.js.map": "/React-Practice/static/js/runtime-main.6f558f1b.js.map",
+    "static/css/2.2f9ba80b.chunk.css": "/React-Practice/static/css/2.2f9ba80b.chunk.css",
+    "static/js/2.56b41c71.chunk.js": "/React-Practice/static/js/2.56b41c71.chunk.js",
+    "static/js/2.56b41c71.chunk.js.map": "/React-Practice/static/js/2.56b41c71.chunk.js.map",
+    "index.html": "/React-Practice/index.html",
+    "static/css/2.2f9ba80b.chunk.css.map": "/React-Practice/static/css/2.2f9ba80b.chunk.css.map",
+    "static/css/main.bed83895.chunk.css.map": "/React-Practice/static/css/main.bed83895.chunk.css.map",
+    "static/js/2.56b41c71.chunk.js.LICENSE.txt": "/React-Practice/static/js/2.56b41c71.chunk.js.LICENSE.txt",
+    "static/media/Java.516a374c.png": "/React-Practice/static/media/Java.516a374c.png",
+    "static/media/Node.dd47e26e.svg": "/React-Practice/static/media/Node.dd47e26e.svg",
+    "static/media/about.d1bf5cf5.png": "/React-Practice/static/media/about.d1bf5cf5.png",
+    "static/media/android.abaf8dd9.jpg": "/React-Practice/static/media/android.abaf8dd9.jpg",
+    "static/media/angular.0797fa51.png": "/React-Practice/static/media/angular.0797fa51.png",
+    "static/media/brand-image.514deccf.png": "/React-Practice/static/media/brand-image.514deccf.png",
+    "static/media/cakephp.b23ab7d4.png": "/React-Practice/static/media/cakephp.b23ab7d4.png",
+    "static/media/dotnet.1b99e0a3.jpg": "/React-Practice/static/media/dotnet.1b99e0a3.jpg",
+    "static/media/laravel.c4d63bfe.jpg": "/React-Practice/static/media/laravel.c4d63bfe.jpg",
+    "static/media/php.1547a906.png": "/React-Practice/static/media/php.1547a906.png",
+    "static/media/react.fd373eec.png": "/React-Practice/static/media/react.fd373eec.png",
+    "static/media/vue.3260de00.png": "/React-Practice/static/media/vue.3260de00.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6f558f1b.js",
+    "static/css/2.2f9ba80b.chunk.css",
+    "static/js/2.56b41c71.chunk.js",
+    "static/css/main.bed83895.chunk.css",
+    "static/js/main.98af6be7.chunk.js"
+  ]
+}
